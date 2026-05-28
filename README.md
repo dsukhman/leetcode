@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 41
+* **Total Problems Solved:** 42
 * **Language:** Python, Java, C
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -72,6 +72,7 @@ Each problem folder contains:
 | 0039 | Combination Sum | Medium | [Link](problems/0039-combination-sum/) |
 | 0040 | Combination Sum II | Medium | [Link](problems/0040-combination-sum-ii/) |
 | 0041 | First Missing Positive | Hard | [Link](problems/0041-first-missing-positive/) |
+| 0042 | Trapping Rain Water | Hard | [Link](problems/0042-trapping-rain-water/) |
 
 *(Table will be updated as more problems are solved.)*
 
